@@ -3,8 +3,8 @@
 The Movie Recommendation System recommends movies similar to a selected title using content-based filtering. It leverages textual data such as genres, cast, crew, and keywords to compute movie similarity, helping users discover new titles they may enjoy.
 
 Project Insights :
-1. Vectorization: Combined features (genre, cast, crew, keywords) into a single text field, and vectorized using CountVectorizer (Bag of Words).
-
+1. Vectorization: Combined features (genre, cast, crew, keywords) into a single text field.
+   
 2. Preprocessing:
 
     Removed duplicates and null values
